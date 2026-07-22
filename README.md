@@ -1,73 +1,97 @@
-# Welcome to your Lovable project
+# 🌐 Personal Portfolio
 
-## Project info
+A modern, responsive, and interactive personal portfolio built to showcase my projects, professional experience, technical skills, certifications, and contact information.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+The portfolio features smooth animations, and a clean, user-friendly interface optimized for different screen sizes.
 
-## How can I edit this code?
+## ✨ Features
 
-There are several ways of editing your application.
+- 📱 Fully Responsive Design
+- 🎨 Modern UI with Smooth Animations
+- 👩‍💻 About Me Section
+- 💼 Professional Experience Timeline
+- 🚀 Projects Showcase
+- 🛠️ Technical Skills
+- 📜 Certificates
+- 📄 Download Resume
+- 📬 Contact Form
+- 🔗 Social Media Links
 
-**Use Lovable**
+## 🛠️ Tech Stack
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- shadcn/ui
 
-Changes made via Lovable will be committed automatically to this repo.
+## 📂 Project Structure
 
-**Use your preferred IDE**
+```text
+src/
+├── components/
+├── pages/
+├── hooks/
+├── lib/
+├── assets/
+├── styles/
+└── main.tsx
+```
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🚀 Getting Started
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Clone the repository:
 
-Follow these steps:
+```bash
+git clone https://github.com/Esraa3122/Esraa_Elsheikh_Portfolio.git
+```
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Navigate to the project folder:
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+```bash
+cd portfolio
+```
 
-# Step 3: Install the necessary dependencies.
-npm i
+Install dependencies:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+Build for production:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```bash
+npm run build
+```
 
-**Use GitHub Codespaces**
+## 📸 Preview
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+The portfolio includes:
 
-## What technologies are used for this project?
+- Home
+- About
+- Skills
+- Experience
+- Projects
+- Certificates
+- Contact
 
-This project is built with:
+## 📬 Contact
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+📧 Email: esraaelsheikh52@gmail.com
 
-## How can I deploy this project?
+💼 LinkedIn: https://www.linkedin.com/in/israa-al-sheikh-90baba231
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+💻 GitHub: https://github.com/Esraa3122
 
-## Can I connect a custom domain to my Lovable project?
+🌐 Portfolio: https://esraa-elsheikh-portfolio.vercel.app
 
-Yes, you can!
+---
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+⭐ If you like this project, feel free to give it a star!
